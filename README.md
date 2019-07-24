@@ -1,6 +1,6 @@
 # typescript-mongoose-express
 
-
+ *Simple typescript mongoose boilerplate*
  *You will need to add config folder inside src with configuration.ts file. It should export object with mongodbUri property*
  
  First:

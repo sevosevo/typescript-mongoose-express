@@ -23,7 +23,7 @@
     "@types/morgan": "^1.7.35",
     "body-parser": "^1.18.3",
     "express": "^4.16.4",
-    "mocha": "^6.1.4",
+    "mocha": "^10.2.0",
     "morgan": "^1.9.1",
     "nodemon": "^1.19.1",
     "supertest": "^4.0.2",
